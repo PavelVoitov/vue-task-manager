@@ -1,6 +1,7 @@
 # Vue Task Manager
 ## Frontend Test Task
 Task manager application using Vue 3, including vuex and vue-router integration.
+You may open this application on gh-pages: https://pavelvoitov.github.io/vue-task-manager
 
 ## Features
 Main Page:
